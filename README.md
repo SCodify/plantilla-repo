@@ -25,7 +25,7 @@
 
 Por lo tanto, siguiendo con el ejemplo anterior, si queremos crear un proyecto con Express y MongoDB, debemos ejecutar:
 ```bash
-npx planitlla-repo --example "https://github.com/usuario/repo-con-las-plantillas" --example-path "plantilla-express-mongodb" proyecto-express-mongo
+npx plantilla-repo --example "https://github.com/usuario/repo-con-las-plantillas" --example-path "plantilla-express-mongodb" proyecto-express-mongo
 ```
 
 Luego nos movemos al directorio del nuevo proyecto con el comando `cd proyecto-express-mongo`, y ejecutamos el comando `npm i` para que se instalen las dependencias.

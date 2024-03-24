@@ -1,6 +1,6 @@
 {
   "name": "plantilla-repo",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Dado un repositorio remoto y un directorio dentro de ese repositorio, pueda clonar el directorio y usarlo como plantilla para un nuevo proyecto.",
   "main": "plantilla-repo.js",
   "scripts": {
@@ -27,5 +27,8 @@
   "homepage": "https://github.com/SCodify/plantilla-repo#readme",
   "dependencies": {
     "fs-extra": "^11.2.0"
+  },
+  "bin": {
+    "plantilla-repo": "./plantilla-repo.js"
   }
 }
