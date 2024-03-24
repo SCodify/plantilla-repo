@@ -1,6 +1,6 @@
 # plantilla-repo
 
-`plantilla-repo` es un comando `npx` que permite crear un nuevo proyecto en por medio de una carpeta de algún repositorio existente.
+[plantilla-repo](https://www.npmjs.com/package/plantilla-repo) es un comando `npx` que permite crear un nuevo proyecto en por medio de una carpeta de algún repositorio existente.
 
 ###  ¿Cómo se usa?
 
