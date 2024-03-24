@@ -1,0 +1,31 @@
+{
+  "name": "plantilla-repo",
+  "version": "1.0.0",
+  "description": "Dado un repositorio remoto y un directorio dentro de ese repositorio, pueda clonar el directorio y usarlo como plantilla para un nuevo proyecto.",
+  "main": "plantilla-repo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCodify/plantilla-repo.git"
+  },
+  "keywords": [
+    "plantilla",
+    "template",
+    "repositorio",
+    "repository",
+    "repo",
+    "directorio",
+    "folder"
+  ],
+  "author": "Christian Ledesma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCodify/plantilla-repo/issues"
+  },
+  "homepage": "https://github.com/SCodify/plantilla-repo#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
